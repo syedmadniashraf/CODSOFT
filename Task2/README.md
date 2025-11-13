@@ -7,7 +7,7 @@ To build a machine learning model that detects **fraudulent credit card transact
 Used the [Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/kartik2112/fraud-detection).  
 Contains **1.29M transactions** with **7.5K fraud cases** (`is_fraud` column).
 
-## ⚙️ Approach
+##  Approach
 1. **Loaded** and cleaned dataset using Pandas  
 2. **Encoded** categorical data & scaled features  
 3. **Trained** a **Random Forest Classifier**  
